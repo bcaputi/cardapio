@@ -1,0 +1,2274 @@
+{
+"categorias": [
+{
+"categoria": "Entradas",
+"secao": "Comer",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Saladas",
+"secao": "Comer",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Espetos",
+"secao": "Comer",
+"observacao": "Acompanhamentos inclusos: farofa, vinagrete e maionese da casa.",
+"foto": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"secao": "Comer",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Porções",
+"secao": "Comer",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Burgers",
+"secao": "Comer",
+"observacao": "Todos os hambúrgueres acompanham batata e maionese especial.",
+"foto": ""
+},
+{
+"categoria": "Fogazzas",
+"secao": "Comer",
+"observacao": "Servidas após as 18h.",
+"foto": "fogazza.jpg"
+},
+{
+"categoria": "Pizzas",
+"secao": "Comer",
+"observacao": "8 pedaços. Servidas após as 18h.",
+"foto": ""
+},
+{
+"categoria": "Sobremesas",
+"secao": "Comer",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"secao": "Beber",
+"observacao": "Sucos naturais. Sabores: abacaxi, amora, caju, frutas vermelhas, laranja, limão, morango e maracujá.",
+"foto": ""
+},
+{
+"categoria": "Caipirinhas",
+"secao": "Beber",
+"observacao": "Escolha o destilado: cachaça, vodka ou saquê. Com Absolut, + R$ 5,90 por copo.",
+"foto": "caipirinhas.jpg"
+},
+{
+"categoria": "Drinks Clássicos",
+"secao": "Beber",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"secao": "Beber",
+"observacao": "Autorais da casa.",
+"foto": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"secao": "Beber",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"secao": "Beber",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Combos",
+"secao": "Beber",
+"observacao": "Adicione à sua dose uma porção de frutas por R$ 39,90.",
+"foto": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"secao": "Beber",
+"observacao": "",
+"foto": ""
+},
+{
+"categoria": "Soft Drinks",
+"secao": "Beber",
+"observacao": "",
+"foto": ""
+}
+],
+"itens": [
+{
+"categoria": "Entradas",
+"subgrupo": "",
+"nome": "Dadinho de Tapioca",
+"descricao": "Crocantes por fora e macios por dentro, servidos com geleia de pimenta.",
+"porcao": "10 unidades",
+"preco": "26,90",
+"foto": "dadinho-tapioca.jpg",
+"esconder": ""
+},
+{
+"categoria": "Entradas",
+"subgrupo": "",
+"nome": "Mix de Salgados",
+"descricao": "Coxinha, bolinho de queijo e quibe.",
+"porcao": "10 unidades",
+"preco": "27,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Entradas",
+"subgrupo": "",
+"nome": "Pastéis Sortidos",
+"descricao": "Pastéis crocantes de carne e queijo.",
+"porcao": "6 unidades",
+"preco": "49,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Entradas",
+"subgrupo": "",
+"nome": "Ceviche de Tilápia",
+"descricao": "Tilápia marinada no leite de tigre, cebola roxa, coentro e pimenta dedo-de-moça. Acompanha tortilhas.",
+"porcao": "",
+"preco": "59,90",
+"foto": "ceviche-tilapia.jpg",
+"esconder": ""
+},
+{
+"categoria": "Saladas",
+"subgrupo": "",
+"nome": "Salada Simples",
+"descricao": "Mix de folhas, tomate e cebola roxa. Acompanha molho especial.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Saladas",
+"subgrupo": "",
+"nome": "Salada Mykonos",
+"descricao": "Mix de folhas, tomate, pepino, cebola roxa, ovo de codorna e palmito. Acompanha molho especial. Na foto, com espeto de camarão.",
+"porcao": "",
+"preco": "34,90",
+"foto": "salada-mykonos.jpg",
+"esconder": ""
+},
+{
+"categoria": "Saladas",
+"subgrupo": "Adicione proteína na sua salada",
+"nome": "Espeto de Camarão",
+"descricao": "",
+"porcao": "",
+"preco": "21,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Saladas",
+"subgrupo": "Adicione proteína na sua salada",
+"nome": "Espeto de Frango",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Carne",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Frango",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Linguiça",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Kafta",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Queijo Coalho",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Pão de Alho",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Coração",
+"descricao": "",
+"porcao": "",
+"preco": "17,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Mussarela Defumada",
+"descricao": "",
+"porcao": "",
+"preco": "17,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Linguiça Suína Cuiabana",
+"descricao": "",
+"porcao": "",
+"preco": "17,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Medalhão de Carne",
+"descricao": "",
+"porcao": "",
+"preco": "20,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Medalhão de Frango",
+"descricao": "",
+"porcao": "",
+"preco": "20,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Espetos",
+"subgrupo": "",
+"nome": "Camarão",
+"descricao": "",
+"porcao": "",
+"preco": "21,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Chapas de churrasco",
+"nome": "Chapa Mista",
+"descricao": "2 espetos de carne, 2 de frango, 2 de linguiça, 1 kafta, 1 queijo coalho e 1 pão de alho.",
+"porcao": "",
+"preco": "109,90",
+"foto": "chapa-mista.jpg",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Chapas de churrasco",
+"nome": "Chapa Churrasco Especial",
+"descricao": "2 medalhões de carne, 2 medalhões de frango, 1 linguiça cuiabana, 1 pão de alho e 1 muçarela defumada. Acompanha cebola temperada.",
+"porcao": "",
+"preco": "154,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Especiais do Chef",
+"nome": "Supremo Tiquatira",
+"descricao": "Tilápia empanada, camarões empanados e camarões salteados no creme de queijo à base de Catupiry. Acompanha arroz com amêndoas defumadas e fritas.",
+"porcao": "650 g",
+"preco": "209,90",
+"foto": "supremo-tiquatira.jpg",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Especiais do Chef",
+"nome": "Picanha na Brasa",
+"descricao": "Picanha na brasa servida na chapa, com cebola temperada, batata palito e arroz.",
+"porcao": "600 g",
+"preco": "169,90",
+"foto": "picanha-na-brasa.jpg",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Farofa",
+"descricao": "",
+"porcao": "50 g",
+"preco": "3,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Vinagrete",
+"descricao": "",
+"porcao": "50 g",
+"preco": "3,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Pão Tostado",
+"descricao": "",
+"porcao": "",
+"preco": "6,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Maionese de Coentro",
+"descricao": "",
+"porcao": "50 g",
+"preco": "5,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Creme de Gorgonzola",
+"descricao": "",
+"porcao": "50 g",
+"preco": "7,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Pasta de Pimentão",
+"descricao": "",
+"porcao": "50 g",
+"preco": "7,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chapas e Especiais do Chef",
+"subgrupo": "Acompanhamentos opcionais",
+"nome": "Molho de Alho",
+"descricao": "",
+"porcao": "50 g",
+"preco": "5,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Isca de Peixe",
+"descricao": "Peixe temperado e empanado na farinha panko, com molho especial.",
+"porcao": "400 g",
+"preco": "74,90",
+"foto": "isca-de-peixe.jpg",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Fish and Chips",
+"descricao": "Peixe empanado, batata canoa e molho especial.",
+"porcao": "550 g",
+"preco": "69,90",
+"foto": "fish-and-chips.jpg",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Manjubinha Empanada",
+"descricao": "Manjubinha crocante. Acompanha molho especial.",
+"porcao": "400 g",
+"preco": "75,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Isca de Frango Empanado",
+"descricao": "Isca de frango temperada e empanada na farinha panko, com molho especial.",
+"porcao": "400 g",
+"preco": "54,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Frango à Passarinho Premium",
+"descricao": "800 g de filé de sobrecoxa sem osso, temperado e frito com alho e ervas.",
+"porcao": "",
+"preco": "56,90",
+"foto": "frango-passarinho.jpg",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Batata Palito",
+"descricao": "Batata palito crocante.",
+"porcao": "500 g",
+"preco": "39,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Batata Palito Especial",
+"descricao": "Com requeijão cremoso, cheddar e farofa de bacon.",
+"porcao": "600 g",
+"preco": "56,90",
+"foto": "batata-palito-especial.jpg",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Batata Canoa Especial",
+"descricao": "Com requeijão cremoso e farofa de bacon.",
+"porcao": "600 g",
+"preco": "56,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Calabresa Acebolada",
+"descricao": "Acompanha pão tostado.",
+"porcao": "500 g",
+"preco": "44,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Torresmo",
+"descricao": "",
+"porcao": "300 g",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Tábua Praiana",
+"descricao": "Camarões empanados, onion rings, batata palito e cebola crispy. Acompanha molho de alho.",
+"porcao": "850 g",
+"preco": "119,90",
+"foto": "tabua-praiana.jpg",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Camarões ao Alho e Óleo",
+"descricao": "Camarões selecionados, limpos e sem casca, salteados no azeite com alho. Acompanha molho de alho.",
+"porcao": "500 g",
+"preco": "165,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Porções",
+"subgrupo": "",
+"nome": "Camarão Empanado",
+"descricao": "Camarões selecionados, limpos, sem casca e empanados. Acompanha maionese de coentro.",
+"porcao": "500 g",
+"preco": "169,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Shark Burguer",
+"descricao": "200 g de hambúrguer Angus, alface, tomate, cebola roxa e mussarela no pão brioche.",
+"porcao": "",
+"preco": "42,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Cheddar e Bacon",
+"descricao": "200 g de hambúrguer Angus, cheddar e farofa de bacon no pão australiano.",
+"porcao": "",
+"preco": "46,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Cheddar Smoke",
+"descricao": "200 g de hambúrguer Angus, cheddar, carne defumada no BBQ e cebola crispy no pão australiano.",
+"porcao": "",
+"preco": "46,90",
+"foto": "cheddar-smoke.jpg",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Burger Catupiry Empanado",
+"descricao": "200 g de hambúrguer Angus, mussarela e Catupiry empanado no pão brioche.",
+"porcao": "",
+"preco": "46,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Surf & Turf",
+"descricao": "Hambúrguer 200 g, mussarela, camarões empanados, molho spicy, cebola crispy e molho especial.",
+"porcao": "",
+"preco": "56,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "",
+"nome": "Praia Lanche Feliz",
+"descricao": "Hambúrguer 120 g, muçarela e ketchup no pão brioche. Acompanha bebida lata e ganha um baldinho de praia.",
+"porcao": "",
+"preco": "49,90",
+"foto": "lanche-feliz.jpg",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Hambúrguer",
+"descricao": "",
+"porcao": "",
+"preco": "12,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Bacon",
+"descricao": "",
+"porcao": "",
+"preco": "8,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Cheddar",
+"descricao": "",
+"porcao": "",
+"preco": "8,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Mussarela",
+"descricao": "",
+"porcao": "",
+"preco": "8,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Salada",
+"descricao": "",
+"porcao": "",
+"preco": "6,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Burgers",
+"subgrupo": "Adicionais",
+"nome": "Catupiry",
+"descricao": "",
+"porcao": "",
+"preco": "8,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Mussarela",
+"descricao": "",
+"porcao": "",
+"preco": "22,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Frango com Catupiry",
+"descricao": "",
+"porcao": "",
+"preco": "22,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Calabresa com Mussarela",
+"descricao": "",
+"porcao": "",
+"preco": "22,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Pepperoni com Cream Cheese",
+"descricao": "",
+"porcao": "",
+"preco": "25,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Chocolate com Morango",
+"descricao": "",
+"porcao": "",
+"preco": "20,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Fogazzas",
+"subgrupo": "",
+"nome": "Fogazza do Chef",
+"descricao": "Doce de leite, banana e chocolate branco.",
+"porcao": "",
+"preco": "20,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Mussarela",
+"descricao": "Mussarela, tomate cereja e orégano.",
+"porcao": "",
+"preco": "64,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Calabresa",
+"descricao": "Calabresa com cebolas temperadas.",
+"porcao": "",
+"preco": "64,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Toscana",
+"descricao": "Calabresa coberta com mussarela.",
+"porcao": "",
+"preco": "64,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Marguerita com Pesto de Manjericão",
+"descricao": "Mussarela, tomate cereja, parmesão e molho pesto de manjericão.",
+"porcao": "",
+"preco": "64,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Napolitana",
+"descricao": "Mussarela, parmesão, tomate cereja e molho de tomate artesanal.",
+"porcao": "",
+"preco": "64,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Tradicionais",
+"nome": "Frango Catupiry",
+"descricao": "Frango desfiado com Catupiry e molho artesanal de tomate.",
+"porcao": "",
+"preco": "69,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Portuguesa",
+"descricao": "Presunto, mussarela, ervilhas frescas e ovos de codorna.",
+"porcao": "",
+"preco": "69,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Pepperoni",
+"descricao": "Mussarela, pepperoni fatiado e molho artesanal de tomate.",
+"porcao": "",
+"preco": "74,90",
+"foto": "pizza-pepperoni.jpg",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Quatro Queijos",
+"descricao": "Mussarela, provolone, Catupiry e gorgonzola.",
+"porcao": "",
+"preco": "74,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Philadelphia",
+"descricao": "Frango desfiado, cream cheese, provolone e molho artesanal de tomate.",
+"porcao": "",
+"preco": "74,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Costela com Mussarela",
+"descricao": "Costela defumada, mussarela, provolone, molho barbecue e salsinha.",
+"porcao": "",
+"preco": "74,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Suprema",
+"descricao": "Mussarela, cheddar, bacon, milho e molho artesanal de tomate.",
+"porcao": "",
+"preco": "79,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Especiais",
+"nome": "Praiana (Camarão Cremoso)",
+"descricao": "Camarões salteados com creme especial, cobertura de mussarela, Catupiry e molho artesanal.",
+"porcao": "",
+"preco": "109,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Doces",
+"nome": "Morango com Chocolate",
+"descricao": "Chocolate ao leite com morango.",
+"porcao": "",
+"preco": "44,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Doces",
+"nome": "Banana",
+"descricao": "Banana com leite condensado e canela.",
+"porcao": "",
+"preco": "44,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Doces",
+"nome": "Pizza do Chef",
+"descricao": "Banana com chocolate branco e doce de leite.",
+"porcao": "",
+"preco": "44,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Doces",
+"nome": "Romeu e Julieta",
+"descricao": "Mussarela derretida com goiabada cremosa.",
+"porcao": "",
+"preco": "54,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Pizzas",
+"subgrupo": "Adicional",
+"nome": "Borda Recheada",
+"descricao": "Catupiry, cheddar, cream cheese ou mussarela.",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Taça Alegre",
+"descricao": "Taça colorida de guloseimas com sorvete e chantilly.",
+"porcao": "",
+"preco": "39,90",
+"foto": "taca-alegre.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Taça Chocolate",
+"descricao": "Creme aerado de chocolate com biscoito Oreo.",
+"porcao": "",
+"preco": "39,90",
+"foto": "taca-chocolate.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Chocoburguer",
+"descricao": "Creme de avelã empanado, morangos fatiados com leite condensado e cobertura de chocolate no pão brioche. Acompanha sorvete de creme.",
+"porcao": "",
+"preco": "42,90",
+"foto": "chocoburguer.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Petit Gateau",
+"descricao": "Bolinho de chocolate quente com sorvete de creme.",
+"porcao": "",
+"preco": "34,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Açaí na Tigela",
+"descricao": "Açaí servido na tigela.",
+"porcao": "300 ml",
+"preco": "19,90",
+"foto": "acai.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sobremesas",
+"subgrupo": "",
+"nome": "Extra para o açaí",
+"descricao": "Banana, granola, morango, leite em pó ou leite condensado.",
+"porcao": "50 g cada",
+"preco": "2,50",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Suco Natural",
+"descricao": "Copo de 400 ml.",
+"porcao": "",
+"preco": "Com água=14,90; Com leite=15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Suco Natural Jarra",
+"descricao": "Jarra de 1 litro.",
+"porcao": "",
+"preco": "Com água=35,90; Com leite=37,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Limonada Suíça",
+"descricao": "Limão e leite condensado.",
+"porcao": "",
+"preco": "Copo 400 ml=15,90; Jarra 1 L=35,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Suco de Açaí",
+"descricao": "Copo de 400 ml.",
+"porcao": "",
+"preco": "Com leite=19,90; Com laranja=19,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Jarra de Açaí",
+"descricao": "Jarra de 1 litro.",
+"porcao": "",
+"preco": "Com leite=39,90; Com laranja=39,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Suco Bifásico",
+"descricao": "",
+"porcao": "",
+"preco": "Copo 450 ml=17,90; Jarra 1 L=38,90",
+"foto": "suco-bifasico.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Milkshake",
+"descricao": "Chocolate, morango ou baunilha.",
+"porcao": "",
+"preco": "25,90",
+"foto": "milkshake.jpg",
+"esconder": ""
+},
+{
+"categoria": "Sucos e Milkshakes",
+"subgrupo": "",
+"nome": "Fruta adicional",
+"descricao": "",
+"porcao": "",
+"preco": "5,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Três Limões com Rapadura",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Abacaxi com Limão e Rapadura",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Maracujá com Morango",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Caju com Limão",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Frutas Vermelhas",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Amora",
+"descricao": "",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Limão",
+"descricao": "",
+"porcao": "",
+"preco": "26,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Morango",
+"descricao": "",
+"porcao": "",
+"preco": "26,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Maracujá",
+"descricao": "",
+"porcao": "",
+"preco": "26,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Abacaxi com Hortelã",
+"descricao": "",
+"porcao": "",
+"preco": "26,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Caipirinhas",
+"subgrupo": "",
+"nome": "Caipirão 2 L",
+"descricao": "Cachaça ou vodka.",
+"porcao": "",
+"preco": "119,90",
+"foto": "caipirao.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Margarita Blue",
+"descricao": "Tequila, Stock Curaçau Blue e suco de limão.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Sex on the Beach",
+"descricao": "Vodka, Stock Pêssego, suco de laranja e Kaly Grenadine.",
+"porcao": "",
+"preco": "29,90",
+"foto": "sex-on-the-beach.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Mojito",
+"descricao": "Rum, suco de limão, hortelã e água com gás.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Mojito Morango",
+"descricao": "Rum, suco de limão, morango, hortelã e água com gás.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Negroni",
+"descricao": "Vermute, Campari e gin.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Campari Tônica",
+"descricao": "Campari e tônica.",
+"porcao": "",
+"preco": "34,90",
+"foto": "campari-tonica.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Garibaldi 43",
+"descricao": "Campari, suco de laranja e Licor 43.",
+"porcao": "",
+"preco": "34,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Aperol Spritz",
+"descricao": "Aperol, espumante, laranja e água com gás.",
+"porcao": "",
+"preco": "33,90",
+"foto": "aperol-spritz.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Pina Colada",
+"descricao": "Rum, suco de abacaxi, leite de coco e leite condensado.",
+"porcao": "",
+"preco": "32,90",
+"foto": "pina-colada.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Moscow Mule",
+"descricao": "Vodka Absolut, limão taiti, angostura bitter, hortelã e espuma de gengibre.",
+"porcao": "",
+"preco": "33,90",
+"foto": "moscow-mule.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Maracujack",
+"descricao": "Maracujá, Jack Daniel's, limão, Sprite, hortelã e açúcar.",
+"porcao": "",
+"preco": "39,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Batidas da Praia",
+"descricao": "Maracujá, morango ou coco.",
+"porcao": "",
+"preco": "27,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "",
+"nome": "Trio de Batidas",
+"descricao": "Morango, maracujá e coco.",
+"porcao": "",
+"preco": "Com álcool=49,90; Sem álcool=39,90",
+"foto": "trio-batidas.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "Para compartilhar",
+"nome": "Sangria",
+"descricao": "Vinho tinto suave com frutas frescas: abacaxi, uva roxa, morango e laranja.",
+"porcao": "1 L",
+"preco": "89,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "Para compartilhar",
+"nome": "Clericot",
+"descricao": "Vinho branco suave, licor de pêssego, Sprite e frutas frescas: abacaxi, uva roxa, morango e laranja.",
+"porcao": "1 L",
+"preco": "89,90",
+"foto": "clericot.jpg",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "Drinks sem álcool",
+"nome": "Eclipse",
+"descricao": "Frutas vermelhas, suco de limão e Sprite.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Drinks Clássicos",
+"subgrupo": "Drinks sem álcool",
+"nome": "Infinit Ocean",
+"descricao": "Suco de abacaxi, Kaly laranja, suco de limão e espuma de gengibre, servido na banheira com patinho.",
+"porcao": "",
+"preco": "32,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Piscininha Amor",
+"descricao": "Absolut Vanilia, maracujá, Licor 43 e espuma de morango. Servido na banheira com patinho.",
+"porcao": "",
+"preco": "49,90",
+"foto": "piscininha-amor.jpg",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Imperatriz da Tiquatira",
+"descricao": "Gin Beefeater, limão, amora e espuma de gengibre.",
+"porcao": "",
+"preco": "38,90",
+"foto": "imperatriz.jpg",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Garota Zona Leste",
+"descricao": "Gin, Stock Pêssego, Stock Triple Sec, abacaxi, limão, pimenta rosa e espuma de gengibre.",
+"porcao": "",
+"preco": "38,90",
+"foto": "garota-zona-leste.jpg",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Don Luiz Morango",
+"descricao": "Licor de doce de leite batido com morango.",
+"porcao": "",
+"preco": "38,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Bem Tranquilo",
+"descricao": "Whisky Jameson, maracujá, limão siciliano, Licor 43 e espuma de gengibre.",
+"porcao": "",
+"preco": "38,90",
+"foto": "bem-tranquilo.jpg",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Caribe",
+"descricao": "Rum Malibu, Stock Curaçau Blue, refrigerante de limão e anis estrelado.",
+"porcao": "",
+"preco": "32,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Hawai",
+"descricao": "Abacaxi, maracujá, rum Malibu e laranja.",
+"porcao": "",
+"preco": "36,90",
+"foto": "hawaii.jpg",
+"esconder": ""
+},
+{
+"categoria": "Beach Club Drinks",
+"subgrupo": "",
+"nome": "Jorge Amado",
+"descricao": "Cachaça Gabriela batida com limão e maracujá.",
+"porcao": "",
+"preco": "29,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Gin tônica",
+"nome": "Gin Tônica Clássico",
+"descricao": "Gin Beefeater, tônica, alecrim e limão siciliano.",
+"porcao": "",
+"preco": "38,90",
+"foto": "gin-classico.jpg",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Gin tônica",
+"nome": "Gin Tônica Frutas Vermelhas",
+"descricao": "Gin Beefeater, tônica, frutas vermelhas e especiarias.",
+"porcao": "",
+"preco": "38,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Gin tônica",
+"nome": "Gin Pink",
+"descricao": "Gin Beefeater infusionado com chá de morango, limão, morango, tônica e espuma de morango.",
+"porcao": "",
+"preco": "39,90",
+"foto": "gin-pink.jpg",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Gin tônica",
+"nome": "Tropical Gin",
+"descricao": "Gin Beefeater, Red Bull Tropical e laranja.",
+"porcao": "",
+"preco": "44,90",
+"foto": "gin-tropical.jpg",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Gin tônica",
+"nome": "Melancita Gin",
+"descricao": "Gin Beefeater e Red Bull de melancia.",
+"porcao": "",
+"preco": "44,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Vinhos",
+"nome": "Vinho Mioranza",
+"descricao": "Tinto suave. Garrafa.",
+"porcao": "",
+"preco": "54,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Vinhos",
+"nome": "Sauvignon Blanc Concha y Toro",
+"descricao": "Branco seco. Garrafa.",
+"porcao": "",
+"preco": "79,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Vinhos",
+"nome": "Malbec Concha y Toro",
+"descricao": "Tinto seco. Garrafa.",
+"porcao": "",
+"preco": "79,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Vinhos",
+"nome": "Espumante Salton Moscatel",
+"descricao": "Suave e aromático. Garrafa.",
+"porcao": "",
+"preco": "120,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Gin e Vinhos",
+"subgrupo": "Vinhos",
+"nome": "Taça de Vinho",
+"descricao": "Tinto suave.",
+"porcao": "",
+"preco": "24,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Gin Beefeater",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=34,90; Garrafa=349,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Gin Beefeater Pink",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=39,90; Garrafa=379,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Tanqueray",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=399,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Licor Doce de Leite Don Luiz",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=22,90; Garrafa=189,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Licor Balena",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=34,90; Garrafa=329,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Gin e licores",
+"nome": "Licor 43",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=43,90; Garrafa=399,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Groselha",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=4,99",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Cachaça Gabriela",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Cachaça Seleta",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=14,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Cachaça Boazinha",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Campari",
+"descricao": "",
+"porcao": "",
+"preco": "Dose 100 ml=23,90; Garrafa=159,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Vodka Absolut Vanilia",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=39,90; Garrafa=349,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Vodka Absolut",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=34,90; Garrafa=329,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Vodka Smirnoff",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=24,90; Garrafa=209,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Vodka Ciroc Sabores",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=499,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Cachaças, vodkas e outros",
+"nome": "Tequila Jose Cuervo",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=25,90; Garrafa=360,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Jameson",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=24,90; Garrafa=199,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Chivas",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=36,90; Garrafa=399,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Red Label",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=34,90; Garrafa=339,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Black Label",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=49,90; Garrafa=479,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Gold Label",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=669,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Jack Daniel's",
+"descricao": "",
+"porcao": "",
+"preco": "Dose=39,90; Garrafa=399,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Jack Honey",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=419,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Old Par",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=399,00",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Doses e Garrafas",
+"subgrupo": "Whiskies",
+"nome": "Buchanan's",
+"descricao": "",
+"porcao": "",
+"preco": "Garrafa=479,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Gin",
+"nome": "Gin Beefeater",
+"descricao": "Com porção de frutas.",
+"porcao": "",
+"preco": "4 tônicas=409,90; 4 Red Bull sabores=459,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Gin",
+"nome": "Gin Beefeater Pink",
+"descricao": "Com porção de frutas.",
+"porcao": "",
+"preco": "4 tônicas=439,90; 4 Red Bull sabores=489,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Gin",
+"nome": "Gin Tanqueray",
+"descricao": "Com porção de frutas.",
+"porcao": "",
+"preco": "4 tônicas=459,90; 4 Red Bull=509,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Jack Daniel's",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "499,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Jack Daniel's Honey",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "529,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Red Label",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "449,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Black Label",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "599,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Gold Label",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "779,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Jameson",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "309,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Old Par",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "499,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Chivas",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "509,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Whisky",
+"nome": "Buchanan's",
+"descricao": "4 Red Bull sabores e 4 gelos de coco.",
+"porcao": "",
+"preco": "589,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Vodka",
+"nome": "Smirnoff",
+"descricao": "Com 4 gelos de coco.",
+"porcao": "",
+"preco": "4 Red Bull=299,90; Suco laranja ou morango=269,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Vodka",
+"nome": "Absolut",
+"descricao": "Com 4 gelos de coco.",
+"porcao": "",
+"preco": "4 Red Bull=419,90; Suco laranja ou morango=379,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Vodka",
+"nome": "Absolut Vanilia 750 ml",
+"descricao": "Com 4 gelos de coco.",
+"porcao": "",
+"preco": "4 Red Bull=439,90; Suco laranja ou morango=399,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Vodka",
+"nome": "Ciroc Frutas Vermelhas",
+"descricao": "Com 4 gelos de coco.",
+"porcao": "",
+"preco": "4 Red Bull=599,90; Suco laranja ou morango=549,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Combos",
+"subgrupo": "Extra",
+"nome": "Porção de frutas",
+"descricao": "",
+"porcao": "",
+"preco": "39,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Chopp",
+"nome": "Chopp Heineken",
+"descricao": "",
+"porcao": "",
+"preco": "300 ml=14,90; 500 ml=19,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Chopp",
+"nome": "Chopp Amstel",
+"descricao": "",
+"porcao": "",
+"preco": "300 ml=9,90; 500 ml=15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Chopp",
+"nome": "Torre de Chopp",
+"descricao": "",
+"porcao": "",
+"preco": "Heineken=95,90; Amstel=79,90",
+"foto": "torre-chopp.jpg",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Cervejas 600 ml",
+"nome": "Heineken 600 ml",
+"descricao": "",
+"porcao": "",
+"preco": "22,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Cervejas 600 ml",
+"nome": "Original 600 ml",
+"descricao": "",
+"porcao": "",
+"preco": "20,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Cervejas 600 ml",
+"nome": "Eisenbahn 600 ml",
+"descricao": "",
+"porcao": "",
+"preco": "17,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Cervejas 600 ml",
+"nome": "Amstel 600 ml",
+"descricao": "",
+"porcao": "",
+"preco": "16,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Latas 269 ml",
+"nome": "Heineken lata",
+"descricao": "",
+"porcao": "",
+"preco": "11,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Latas 269 ml",
+"nome": "Skol Beats lata",
+"descricao": "",
+"porcao": "",
+"preco": "13,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Latas 269 ml",
+"nome": "Original lata",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Latas 269 ml",
+"nome": "Amstel lata",
+"descricao": "",
+"porcao": "",
+"preco": "8,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Latas 269 ml",
+"nome": "Corona lata",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Long neck",
+"nome": "Heineken / Heineken Zero",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Long neck",
+"nome": "Corona",
+"descricao": "",
+"porcao": "",
+"preco": "15,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Long neck",
+"nome": "Amstel",
+"descricao": "",
+"porcao": "",
+"preco": "12,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Long neck",
+"nome": "Amstel Ultra",
+"descricao": "",
+"porcao": "",
+"preco": "12,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Long neck",
+"nome": "Skol Beats",
+"descricao": "",
+"porcao": "",
+"preco": "17,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Balde",
+"nome": "Balde 5 Amstel long neck",
+"descricao": "",
+"porcao": "",
+"preco": "54,90",
+"foto": "balde.jpg",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Balde",
+"nome": "Balde 5 Heineken long neck",
+"descricao": "",
+"porcao": "",
+"preco": "69,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Balde",
+"nome": "Balde 5 Corona long neck",
+"descricao": "",
+"porcao": "",
+"preco": "74,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Chopp e Cervejas",
+"subgrupo": "Balde",
+"nome": "Balde 5 Skol Beats long neck",
+"descricao": "",
+"porcao": "",
+"preco": "84,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Água sem gás",
+"descricao": "",
+"porcao": "",
+"preco": "6,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Água com gás",
+"descricao": "",
+"porcao": "",
+"preco": "7,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Água de coco",
+"descricao": "",
+"porcao": "",
+"preco": "12,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Powerade",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Coca-Cola / Coca-Cola Zero",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Guaraná / Guaraná Zero",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Sprite",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Schweppes Citrus",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Tônica",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Fanta",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Gelo de coco",
+"descricao": "",
+"porcao": "",
+"preco": "9,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Red Bull",
+"descricao": "Tradicional, tropical, melancia ou zero.",
+"porcao": "",
+"preco": "22,90",
+"foto": "",
+"esconder": ""
+},
+{
+"categoria": "Soft Drinks",
+"subgrupo": "",
+"nome": "Kaly Italian Soda",
+"descricao": "Cranberry ou morango.",
+"porcao": "",
+"preco": "14,90",
+"foto": "italian-soda.jpg",
+"esconder": ""
+}
+]
+}
