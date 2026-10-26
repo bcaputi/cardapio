@@ -71,3 +71,5 @@ body::after{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
 header.top,main,footer{position:relative;z-index:1}
 .bar{z-index:5}
 .lb{z-index:30}
+.aviso{max-width:720px;margin:14px auto 0;padding:12px 14px;border-radius:12px;background:var(--chip);color:var(--fg);font-weight:800;font-size:14px;position:relative;z-index:1;border-left:4px solid var(--coral)}
+@media (max-width:752px){.aviso{margin-left:max(16px,env(safe-area-inset-left,0px));margin-right:max(16px,env(safe-area-inset-right,0px))}}

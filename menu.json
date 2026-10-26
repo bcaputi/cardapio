@@ -118,7 +118,9 @@
 "porcao": "10 unidades",
 "preco": "26,90",
 "foto": "dadinho-tapioca.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Entradas",
@@ -128,7 +130,9 @@
 "porcao": "10 unidades",
 "preco": "27,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Entradas",
@@ -138,7 +142,9 @@
 "porcao": "6 unidades",
 "preco": "49,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Entradas",
@@ -148,7 +154,9 @@
 "porcao": "",
 "preco": "59,90",
 "foto": "ceviche-tilapia.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Saladas",
@@ -158,7 +166,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Saladas",
@@ -168,7 +178,9 @@
 "porcao": "",
 "preco": "34,90",
 "foto": "salada-mykonos.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Saladas",
@@ -178,7 +190,9 @@
 "porcao": "",
 "preco": "21,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Saladas",
@@ -188,7 +202,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -198,7 +214,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -208,7 +226,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -218,7 +238,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -228,7 +250,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -238,7 +262,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -248,7 +274,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -258,7 +286,9 @@
 "porcao": "",
 "preco": "17,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -268,7 +298,9 @@
 "porcao": "",
 "preco": "17,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -278,7 +310,9 @@
 "porcao": "",
 "preco": "17,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -288,7 +322,9 @@
 "porcao": "",
 "preco": "20,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -298,7 +334,9 @@
 "porcao": "",
 "preco": "20,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Espetos",
@@ -308,7 +346,9 @@
 "porcao": "",
 "preco": "21,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -318,7 +358,9 @@
 "porcao": "",
 "preco": "109,90",
 "foto": "chapa-mista.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -328,7 +370,9 @@
 "porcao": "",
 "preco": "154,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -338,7 +382,9 @@
 "porcao": "650 g",
 "preco": "209,90",
 "foto": "supremo-tiquatira.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -348,7 +394,9 @@
 "porcao": "600 g",
 "preco": "169,90",
 "foto": "picanha-na-brasa.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -358,7 +406,9 @@
 "porcao": "50 g",
 "preco": "3,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -368,7 +418,9 @@
 "porcao": "50 g",
 "preco": "3,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -378,7 +430,9 @@
 "porcao": "",
 "preco": "6,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -388,7 +442,9 @@
 "porcao": "50 g",
 "preco": "5,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -398,7 +454,9 @@
 "porcao": "50 g",
 "preco": "7,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -408,7 +466,9 @@
 "porcao": "50 g",
 "preco": "7,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chapas e Especiais do Chef",
@@ -418,7 +478,9 @@
 "porcao": "50 g",
 "preco": "5,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -428,7 +490,9 @@
 "porcao": "400 g",
 "preco": "74,90",
 "foto": "isca-de-peixe.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -438,7 +502,9 @@
 "porcao": "550 g",
 "preco": "69,90",
 "foto": "fish-and-chips.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -448,7 +514,9 @@
 "porcao": "400 g",
 "preco": "75,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -458,7 +526,9 @@
 "porcao": "400 g",
 "preco": "54,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -468,7 +538,9 @@
 "porcao": "",
 "preco": "56,90",
 "foto": "frango-passarinho.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -478,7 +550,9 @@
 "porcao": "500 g",
 "preco": "39,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -488,7 +562,9 @@
 "porcao": "600 g",
 "preco": "56,90",
 "foto": "batata-palito-especial.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -498,7 +574,9 @@
 "porcao": "600 g",
 "preco": "56,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -508,7 +586,9 @@
 "porcao": "500 g",
 "preco": "44,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -518,7 +598,9 @@
 "porcao": "300 g",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -528,7 +610,9 @@
 "porcao": "850 g",
 "preco": "119,90",
 "foto": "tabua-praiana.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -538,7 +622,9 @@
 "porcao": "500 g",
 "preco": "165,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Porções",
@@ -548,7 +634,9 @@
 "porcao": "500 g",
 "preco": "169,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -558,7 +646,9 @@
 "porcao": "",
 "preco": "42,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -568,7 +658,9 @@
 "porcao": "",
 "preco": "46,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -578,7 +670,9 @@
 "porcao": "",
 "preco": "46,90",
 "foto": "cheddar-smoke.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -588,7 +682,9 @@
 "porcao": "",
 "preco": "46,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -598,7 +694,9 @@
 "porcao": "",
 "preco": "56,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -608,7 +706,9 @@
 "porcao": "",
 "preco": "49,90",
 "foto": "lanche-feliz.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -618,7 +718,9 @@
 "porcao": "",
 "preco": "12,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -628,7 +730,9 @@
 "porcao": "",
 "preco": "8,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -638,7 +742,9 @@
 "porcao": "",
 "preco": "8,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -648,7 +754,9 @@
 "porcao": "",
 "preco": "8,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -658,7 +766,9 @@
 "porcao": "",
 "preco": "6,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Burgers",
@@ -668,7 +778,9 @@
 "porcao": "",
 "preco": "8,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -678,7 +790,9 @@
 "porcao": "",
 "preco": "22,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -688,7 +802,9 @@
 "porcao": "",
 "preco": "22,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -698,7 +814,9 @@
 "porcao": "",
 "preco": "22,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -708,7 +826,9 @@
 "porcao": "",
 "preco": "25,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -718,7 +838,9 @@
 "porcao": "",
 "preco": "20,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Fogazzas",
@@ -728,7 +850,9 @@
 "porcao": "",
 "preco": "20,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -738,7 +862,9 @@
 "porcao": "",
 "preco": "64,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -748,7 +874,9 @@
 "porcao": "",
 "preco": "64,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -758,7 +886,9 @@
 "porcao": "",
 "preco": "64,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -768,7 +898,9 @@
 "porcao": "",
 "preco": "64,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -778,7 +910,9 @@
 "porcao": "",
 "preco": "64,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -788,7 +922,9 @@
 "porcao": "",
 "preco": "69,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -798,7 +934,9 @@
 "porcao": "",
 "preco": "69,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -808,7 +946,9 @@
 "porcao": "",
 "preco": "74,90",
 "foto": "pizza-pepperoni.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -818,7 +958,9 @@
 "porcao": "",
 "preco": "74,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -828,7 +970,9 @@
 "porcao": "",
 "preco": "74,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -838,7 +982,9 @@
 "porcao": "",
 "preco": "74,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -848,7 +994,9 @@
 "porcao": "",
 "preco": "79,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -858,7 +1006,9 @@
 "porcao": "",
 "preco": "109,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -868,7 +1018,9 @@
 "porcao": "",
 "preco": "44,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -878,7 +1030,9 @@
 "porcao": "",
 "preco": "44,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -888,7 +1042,9 @@
 "porcao": "",
 "preco": "44,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -898,7 +1054,9 @@
 "porcao": "",
 "preco": "54,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Pizzas",
@@ -908,7 +1066,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -918,7 +1078,9 @@
 "porcao": "",
 "preco": "39,90",
 "foto": "taca-alegre.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -928,7 +1090,9 @@
 "porcao": "",
 "preco": "39,90",
 "foto": "taca-chocolate.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -938,7 +1102,9 @@
 "porcao": "",
 "preco": "42,90",
 "foto": "chocoburguer.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -948,7 +1114,9 @@
 "porcao": "",
 "preco": "34,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -958,7 +1126,9 @@
 "porcao": "300 ml",
 "preco": "19,90",
 "foto": "acai.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sobremesas",
@@ -968,7 +1138,9 @@
 "porcao": "50 g cada",
 "preco": "2,50",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -978,7 +1150,9 @@
 "porcao": "",
 "preco": "Com água=14,90; Com leite=15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -988,7 +1162,9 @@
 "porcao": "",
 "preco": "Com água=35,90; Com leite=37,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -998,7 +1174,9 @@
 "porcao": "",
 "preco": "Copo 400 ml=15,90; Jarra 1 L=35,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -1008,7 +1186,9 @@
 "porcao": "",
 "preco": "Com leite=19,90; Com laranja=19,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -1018,7 +1198,9 @@
 "porcao": "",
 "preco": "Com leite=39,90; Com laranja=39,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -1028,7 +1210,9 @@
 "porcao": "",
 "preco": "Copo 450 ml=17,90; Jarra 1 L=38,90",
 "foto": "suco-bifasico.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -1038,7 +1222,9 @@
 "porcao": "",
 "preco": "25,90",
 "foto": "milkshake.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Sucos e Milkshakes",
@@ -1048,7 +1234,9 @@
 "porcao": "",
 "preco": "5,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1058,7 +1246,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1068,7 +1258,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1078,7 +1270,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1088,7 +1282,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1098,7 +1294,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1108,7 +1306,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1118,7 +1318,9 @@
 "porcao": "",
 "preco": "26,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1128,7 +1330,9 @@
 "porcao": "",
 "preco": "26,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1138,7 +1342,9 @@
 "porcao": "",
 "preco": "26,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1148,7 +1354,9 @@
 "porcao": "",
 "preco": "26,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Caipirinhas",
@@ -1158,7 +1366,9 @@
 "porcao": "",
 "preco": "119,90",
 "foto": "caipirao.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1168,7 +1378,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1178,7 +1390,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "sex-on-the-beach.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1188,7 +1402,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1198,7 +1414,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1208,7 +1426,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1218,7 +1438,9 @@
 "porcao": "",
 "preco": "34,90",
 "foto": "campari-tonica.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1228,7 +1450,9 @@
 "porcao": "",
 "preco": "34,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1238,7 +1462,9 @@
 "porcao": "",
 "preco": "33,90",
 "foto": "aperol-spritz.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1248,7 +1474,9 @@
 "porcao": "",
 "preco": "32,90",
 "foto": "pina-colada.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1258,7 +1486,9 @@
 "porcao": "",
 "preco": "33,90",
 "foto": "moscow-mule.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1268,7 +1498,9 @@
 "porcao": "",
 "preco": "39,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1278,7 +1510,9 @@
 "porcao": "",
 "preco": "27,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1288,7 +1522,9 @@
 "porcao": "",
 "preco": "Com álcool=49,90; Sem álcool=39,90",
 "foto": "trio-batidas.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1298,7 +1534,9 @@
 "porcao": "1 L",
 "preco": "89,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1308,7 +1546,9 @@
 "porcao": "1 L",
 "preco": "89,90",
 "foto": "clericot.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1318,7 +1558,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Drinks Clássicos",
@@ -1328,7 +1570,9 @@
 "porcao": "",
 "preco": "32,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1338,7 +1582,9 @@
 "porcao": "",
 "preco": "49,90",
 "foto": "piscininha-amor.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1348,7 +1594,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "imperatriz.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1358,7 +1606,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "garota-zona-leste.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1368,7 +1618,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1378,7 +1630,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "bem-tranquilo.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1388,7 +1642,9 @@
 "porcao": "",
 "preco": "32,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1398,7 +1654,9 @@
 "porcao": "",
 "preco": "36,90",
 "foto": "hawaii.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Beach Club Drinks",
@@ -1408,7 +1666,9 @@
 "porcao": "",
 "preco": "29,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1418,7 +1678,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "gin-classico.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1428,7 +1690,9 @@
 "porcao": "",
 "preco": "38,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1438,7 +1702,9 @@
 "porcao": "",
 "preco": "39,90",
 "foto": "gin-pink.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1448,7 +1714,9 @@
 "porcao": "",
 "preco": "44,90",
 "foto": "gin-tropical.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1458,7 +1726,9 @@
 "porcao": "",
 "preco": "44,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1468,7 +1738,9 @@
 "porcao": "",
 "preco": "54,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1478,7 +1750,9 @@
 "porcao": "",
 "preco": "79,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1488,7 +1762,9 @@
 "porcao": "",
 "preco": "79,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1498,7 +1774,9 @@
 "porcao": "",
 "preco": "120,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Gin e Vinhos",
@@ -1508,7 +1786,9 @@
 "porcao": "",
 "preco": "24,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1518,7 +1798,9 @@
 "porcao": "",
 "preco": "Dose=34,90; Garrafa=349,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1528,7 +1810,9 @@
 "porcao": "",
 "preco": "Dose=39,90; Garrafa=379,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1538,7 +1822,9 @@
 "porcao": "",
 "preco": "Garrafa=399,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1548,7 +1834,9 @@
 "porcao": "",
 "preco": "Dose=22,90; Garrafa=189,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1558,7 +1846,9 @@
 "porcao": "",
 "preco": "Dose=34,90; Garrafa=329,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1568,7 +1858,9 @@
 "porcao": "",
 "preco": "Dose=43,90; Garrafa=399,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1578,7 +1870,9 @@
 "porcao": "",
 "preco": "Dose=4,99",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1588,7 +1882,9 @@
 "porcao": "",
 "preco": "Dose=9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1598,7 +1894,9 @@
 "porcao": "",
 "preco": "Dose=14,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1608,7 +1906,9 @@
 "porcao": "",
 "preco": "Dose=15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1618,7 +1918,9 @@
 "porcao": "",
 "preco": "Dose 100 ml=23,90; Garrafa=159,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1628,7 +1930,9 @@
 "porcao": "",
 "preco": "Dose=39,90; Garrafa=349,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1638,7 +1942,9 @@
 "porcao": "",
 "preco": "Dose=34,90; Garrafa=329,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1648,7 +1954,9 @@
 "porcao": "",
 "preco": "Dose=24,90; Garrafa=209,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1658,7 +1966,9 @@
 "porcao": "",
 "preco": "Garrafa=499,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1668,7 +1978,9 @@
 "porcao": "",
 "preco": "Dose=25,90; Garrafa=360,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1678,7 +1990,9 @@
 "porcao": "",
 "preco": "Dose=24,90; Garrafa=199,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1688,7 +2002,9 @@
 "porcao": "",
 "preco": "Dose=36,90; Garrafa=399,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1698,7 +2014,9 @@
 "porcao": "",
 "preco": "Dose=34,90; Garrafa=339,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1708,7 +2026,9 @@
 "porcao": "",
 "preco": "Dose=49,90; Garrafa=479,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1718,7 +2038,9 @@
 "porcao": "",
 "preco": "Garrafa=669,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1728,7 +2050,9 @@
 "porcao": "",
 "preco": "Dose=39,90; Garrafa=399,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1738,7 +2062,9 @@
 "porcao": "",
 "preco": "Garrafa=419,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1748,7 +2074,9 @@
 "porcao": "",
 "preco": "Garrafa=399,00",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Doses e Garrafas",
@@ -1758,7 +2086,9 @@
 "porcao": "",
 "preco": "Garrafa=479,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1768,7 +2098,9 @@
 "porcao": "",
 "preco": "4 tônicas=409,90; 4 Red Bull sabores=459,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1778,7 +2110,9 @@
 "porcao": "",
 "preco": "4 tônicas=439,90; 4 Red Bull sabores=489,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1788,7 +2122,9 @@
 "porcao": "",
 "preco": "4 tônicas=459,90; 4 Red Bull=509,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1798,7 +2134,9 @@
 "porcao": "",
 "preco": "499,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1808,7 +2146,9 @@
 "porcao": "",
 "preco": "529,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1818,7 +2158,9 @@
 "porcao": "",
 "preco": "449,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1828,7 +2170,9 @@
 "porcao": "",
 "preco": "599,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1838,7 +2182,9 @@
 "porcao": "",
 "preco": "779,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1848,7 +2194,9 @@
 "porcao": "",
 "preco": "309,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1858,7 +2206,9 @@
 "porcao": "",
 "preco": "499,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1868,7 +2218,9 @@
 "porcao": "",
 "preco": "509,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1878,7 +2230,9 @@
 "porcao": "",
 "preco": "589,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1888,7 +2242,9 @@
 "porcao": "",
 "preco": "4 Red Bull=299,90; Suco laranja ou morango=269,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1898,7 +2254,9 @@
 "porcao": "",
 "preco": "4 Red Bull=419,90; Suco laranja ou morango=379,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1908,7 +2266,9 @@
 "porcao": "",
 "preco": "4 Red Bull=439,90; Suco laranja ou morango=399,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1918,7 +2278,9 @@
 "porcao": "",
 "preco": "4 Red Bull=599,90; Suco laranja ou morango=549,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Combos",
@@ -1928,7 +2290,9 @@
 "porcao": "",
 "preco": "39,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1938,7 +2302,9 @@
 "porcao": "",
 "preco": "300 ml=14,90; 500 ml=19,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1948,7 +2314,9 @@
 "porcao": "",
 "preco": "300 ml=9,90; 500 ml=15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1958,7 +2326,9 @@
 "porcao": "",
 "preco": "Heineken=95,90; Amstel=79,90",
 "foto": "torre-chopp.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1968,7 +2338,9 @@
 "porcao": "",
 "preco": "22,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1978,7 +2350,9 @@
 "porcao": "",
 "preco": "20,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1988,7 +2362,9 @@
 "porcao": "",
 "preco": "17,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -1998,7 +2374,9 @@
 "porcao": "",
 "preco": "16,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2008,7 +2386,9 @@
 "porcao": "",
 "preco": "11,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2018,7 +2398,9 @@
 "porcao": "",
 "preco": "13,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2028,7 +2410,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2038,7 +2422,9 @@
 "porcao": "",
 "preco": "8,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2048,7 +2434,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2058,7 +2446,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2068,7 +2458,9 @@
 "porcao": "",
 "preco": "15,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2078,7 +2470,9 @@
 "porcao": "",
 "preco": "12,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2088,7 +2482,9 @@
 "porcao": "",
 "preco": "12,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2098,7 +2494,9 @@
 "porcao": "",
 "preco": "17,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2108,7 +2506,9 @@
 "porcao": "",
 "preco": "54,90",
 "foto": "balde.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2118,7 +2518,9 @@
 "porcao": "",
 "preco": "69,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2128,7 +2530,9 @@
 "porcao": "",
 "preco": "74,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Chopp e Cervejas",
@@ -2138,7 +2542,9 @@
 "porcao": "",
 "preco": "84,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2148,7 +2554,9 @@
 "porcao": "",
 "preco": "6,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2158,7 +2566,9 @@
 "porcao": "",
 "preco": "7,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2168,7 +2578,9 @@
 "porcao": "",
 "preco": "12,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2178,7 +2590,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2188,7 +2602,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2198,7 +2614,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2208,7 +2626,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2218,7 +2638,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2228,7 +2650,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2238,7 +2662,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2248,7 +2674,9 @@
 "porcao": "",
 "preco": "9,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2258,7 +2686,9 @@
 "porcao": "",
 "preco": "22,90",
 "foto": "",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 },
 {
 "categoria": "Soft Drinks",
@@ -2268,7 +2698,10 @@
 "porcao": "",
 "preco": "14,90",
 "foto": "italian-soda.jpg",
-"esconder": ""
+"esconder": "",
+"nao-servir-em": "",
+"reduzido": ""
 }
-]
+],
+"ajustes": []
 }

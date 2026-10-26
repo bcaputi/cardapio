@@ -52,8 +52,28 @@
   }
   function yes(s) { return /^(sim|s|x|true|1|esconder|oculto)$/i.test(norm(s)); }
 
-  /* planilha → cardápio */
-  function build(catsRows, itemRows) {
+  /* dia da semana em São Paulo: dom seg ter qua qui sex sab */
+  var DAYS = ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sab'];
+  function todaySP() {
+    try {
+      var w = new Intl.DateTimeFormat('en-US', { weekday: 'short', timeZone: 'America/Sao_Paulo' }).format(new Date());
+      return DAYS[['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].indexOf(w)];
+    } catch (e) { return DAYS[new Date().getDay()]; }
+  }
+  /* "sáb, dom" · "fim de semana" · "dias úteis" · "Sábado e Domingo" → lista de dias */
+  function dayList(s) {
+    s = slug(s); if (!s) return [];
+    var out = [];
+    if (/fim-de-semana|fds/.test(s)) out.push('sab', 'dom');
+    if (/dias-uteis/.test(s)) out.push('seg', 'ter', 'qua', 'qui', 'sex');
+    s.split('-').forEach(function (t) { var d = t.slice(0, 3); if (DAYS.indexOf(d) >= 0) out.push(d); });
+    return out;
+  }
+
+  /* planilha → cardápio (aplica dias e cardápio reduzido) */
+  function build(catsRows, itemRows, adj) {
+    adj = adj || {};
+    var today = todaySP(), reduced = yes(adj.reduzido);
     var cats = [], byName = {};
     catsRows.forEach(function (r) {
       var name = r.categoria; if (!name || byName[name.toLowerCase()]) return;
@@ -63,6 +83,8 @@
     itemRows.forEach(function (r) {
       var c = byName[(r.categoria || '').toLowerCase()];
       if (!c || !r.nome || yes(r.esconder)) return;
+      if (dayList(r['nao-servir-em']).indexOf(today) >= 0) return;
+      if (reduced && !yes(r.reduzido)) return;
       c.items.push({ n: r.nome, d: r.descricao || '', w: r.porcao || '', p: prices(r.preco), img: img(r.foto), sub: r.subgrupo || '' });
     });
     return cats.filter(function (c) { return c.items.length; });
@@ -123,8 +145,30 @@
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') $('layer').innerHTML = ''; });
 
+  /* aba Ajustes (Ajuste, Valor) → {reduzido, aviso} */
+  function ajustes(rows) {
+    var o = {};
+    (rows || []).forEach(function (r) {
+      var k = slug(r.ajuste), v = r.valor || '';
+      if (/reduzido/.test(k)) o.reduzido = v;
+      else if (/aviso/.test(k)) o.aviso = v;
+    });
+    return o;
+  }
+  function notice(text) {
+    var el = $('aviso');
+    if (!el) { el = document.createElement('p'); el.id = 'aviso'; el.className = 'aviso'; $('menu').parentNode.insertBefore(el, $('menu')); }
+    el.textContent = text || ''; el.hidden = !text;
+  }
+  function fromRaw(raw) {
+    var adj = ajustes(raw.ajustes);
+    notice(adj.aviso);
+    return build(raw.categorias, raw.itens, adj);
+  }
+
   function show(data) {
     S = data;
+    if (!S.length) { $('chips').innerHTML = ''; $('menu').innerHTML = '<p class="loading">Nenhum item disponível no cardápio agora. Fale com o garçom.</p>'; return; }
     var h = (location.hash || '').slice(1), hc = S.filter(function (c) { return c.id === h; })[0];
     if (hc) group = hc.group;
     if (!cats().length) group = S.length ? S[0].group : 'comer';
@@ -135,10 +179,11 @@
     var sep = url.indexOf('?') >= 0 ? '&' : '?';
     return fetch(url + sep + '_=' + Date.now(), { cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); });
   }
+  /* sem planilha: última cópia salva no celular (dados brutos, filtrados de novo pelo dia de hoje) ou menu.json */
   function fallback() {
-    var cached = null; try { cached = JSON.parse(localStorage.getItem('cardapio-praia')); } catch (e) {}
-    if (cached && cached.length) return Promise.resolve(cached);
-    return fetch('menu.json').then(function (r) { return r.json(); }).then(function (j) { return build(j.categorias, j.itens); });
+    var cached = null; try { cached = JSON.parse(localStorage.getItem('cardapio-praia-v2')); } catch (e) {}
+    if (cached && cached.itens && cached.itens.length) return Promise.resolve(fromRaw(cached));
+    return fetch('menu.json').then(function (r) { return r.json(); }).then(fromRaw);
   }
 
   $('foot').innerHTML = '<strong>Praia da Tiquatira Beach Club</strong><span>Imagens meramente ilustrativas.</span>' +
@@ -146,11 +191,15 @@
     '<span>Instagram <strong>' + esc(C.instagram || '') + '</strong></span>';
 
   var live = C.planilhaItensCSV && C.planilhaCategoriasCSV
-    ? Promise.all([get(C.planilhaCategoriasCSV), get(C.planilhaItensCSV)]).then(function (t) {
-        var d = build(parseCSV(t[0]), parseCSV(t[1]));
-        if (!d.length) throw new Error('planilha vazia');
-        try { localStorage.setItem('cardapio-praia', JSON.stringify(d)); } catch (e) {}
-        return d;
+    ? Promise.all([
+        get(C.planilhaCategoriasCSV),
+        get(C.planilhaItensCSV),
+        C.planilhaAjustesCSV ? get(C.planilhaAjustesCSV).catch(function () { return ''; }) : Promise.resolve('')
+      ]).then(function (t) {
+        var raw = { categorias: parseCSV(t[0]), itens: parseCSV(t[1]), ajustes: t[2] ? parseCSV(t[2]) : [] };
+        if (!raw.itens.length || !raw.categorias.length) throw new Error('planilha vazia');
+        try { localStorage.setItem('cardapio-praia-v2', JSON.stringify(raw)); } catch (e) {}
+        return fromRaw(raw);
       })
     : Promise.reject(new Error('sem planilha'));
   live.catch(fallback).then(show).catch(function () {
