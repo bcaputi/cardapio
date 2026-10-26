@@ -61,3 +61,13 @@ footer strong{color:var(--fg)}
 .thumb-btn{border:0;padding:0;background:none;cursor:zoom-in;flex:none}
 .loading{padding-block:40px;color:var(--muted)}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+
+/* Marca d'água: logo fixo no fundo, sem bloquear toques */
+:root{--watermark-opacity:.07}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--watermark-opacity:.05}}
+:root[data-theme="dark"]{--watermark-opacity:.05}
+body::after{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:url("img/logo.png") center 58%/min(72vw,380px) no-repeat;opacity:var(--watermark-opacity)}
+header.top,main,footer{position:relative;z-index:1}
+.bar{z-index:5}
+.lb{z-index:30}
